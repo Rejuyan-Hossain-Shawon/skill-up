@@ -1,33 +1,24 @@
-# Getting Started with Create React App
+# Getting Started with Skill Update Website
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This project was bootstrapped with [Create React App](https://rejuyan-hossain-shawon-skill-up-website.netlify.app/).
 
-## Available Scripts
+## `Installed Dependencies`
 
-In the project directory, you can run:
+React Bootstrap
+React Router Dom
+npm run build file
 
-### `yarn start`
+### `Create React App`
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+First we have to run npx command line after that we have install needed dependencies
 
-The page will reload if you make edits.\
-You will also see any lint errors in the console.
+### `How This app work`
 
-### `yarn test`
+first this app load data from the fake database from our root public folder of this app.after that it will pass data to component as per need and display over all.
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+### `npm run build folder for Deploy`
 
-### `yarn build`
-
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
-
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
-
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+This command line will create a build file which we can deploy at online deploy site 
 
 ### `yarn eject`
 

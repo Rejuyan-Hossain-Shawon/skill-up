@@ -7,7 +7,7 @@ const HomeCourses = (props) => {
     return (
         <Card style={{ width: '40rem' }}>
             <Card.Img height="350" variant="top" src={picture} />
-            <Card.Body className=" border-primary fs-4 bg-info text-dark">
+            <Card.Body className=" border-primary fs-4 bg-light text-dark">
                 <Card.Title className="fs-1">{name}</Card.Title>
                 <Card.Text>
                     Price: {price}
