@@ -18,7 +18,7 @@ const Services = () => {
 
                 {/* because work is similar thats why we using this HomeCourses components again */}
                 {
-                    courses.map(course => <HomeCourses course={course}></HomeCourses>)
+                    courses.map(course => <HomeCourses key={course._id} course={course}></HomeCourses>)
                 }
             </div>
         </div>
