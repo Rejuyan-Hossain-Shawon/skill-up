@@ -1,0 +1,72 @@
+[
+  {
+    "_id": "615af3daf07f8ba40eed5d22",
+    "price": 2315,
+    "picture": "https://leverageedu.com/blog/wp-content/uploads/2020/04/IELTS-Preparation-Tips.png",
+    "duration": 5,
+    "name": "IELTS"
+  },
+  {
+    "_id": "615af3da8306804f64648697",
+    "price": 2189,
+    "picture": "https://admission.buddy4study.com/study-abroad/wp-content/uploads/2019/08/GRE-Graduate-Record-Examinations-GRE-full-form-eligibility-GRE-fee-1.jpg",
+    "duration": 8,
+    "name": "GRE"
+  },
+  {
+    "_id": "615af3daeccd52a4dbade506",
+    "price": 3467,
+    "picture": "https://i1.sndcdn.com/avatars-bDMse0LK9giPTsoy-YozWGA-t500x500.jpg",
+    "duration": 5,
+    "name": "Java Script"
+  },
+  {
+    "_id": "615af3dab895926912ccb9a5",
+    "price": 1935,
+    "picture": "https://onextrapixel.com/wp-content/uploads/2016/04/reactjs-thumb.jpg",
+    "duration": 8,
+    "name": "React Js"
+  },
+  {
+    "_id": "615af3da8d58ecc73ae81625",
+    "price": 1175,
+    "picture": "https://res.cloudinary.com/practicaldev/image/fetch/s--0FRJGdyZ--/c_imagga_scale,f_auto,fl_progressive,h_500,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/epv55hgtsfi8csprpj9u.jpg",
+    "duration": 5,
+    "name": "MERN Web Development"
+  },
+  {
+    "_id": "615af3da9cdb61392f2a47aa",
+    "price": 2623,
+    "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTLLOqjXIHf7jGftXsunzVhrFfcxf1uSa7ipQ&usqp=CAU",
+    "duration": 7,
+    "name": "HTML"
+  },
+  {
+    "_id": "615af3da631073713eb3a021",
+    "price": 2742,
+    "picture": "https://i1.wp.com/mrvirk.com/wp-content/uploads/2019/08/DOM-Document-Object-Model.png?fit=1920%2C1080&ssl=1",
+    "duration": 9,
+    "name": "DOM"
+  },
+  {
+    "_id": "615af3da6b5e46c88faec5bf",
+    "price": 1347,
+    "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRs3zfnXC5nzI0SilAtMKYcxPZ_2y6ZhcThVQ&usqp=CAU",
+    "duration": 6,
+    "name": "Python"
+  },
+  {
+    "_id": "615af3da539aeb03a5398dae",
+    "price": 3820,
+    "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQUi_Vu1IdfILlWGkmOt1a6F-8C2VryABt3iQ&usqp=CAU",
+    "duration": 8,
+    "name": "C#"
+  },
+  {
+    "_id": "615af3da75b0e479d6820bae",
+    "price": 2450,
+    "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSmWI1Ywo8ILyOI4IaLMGwVYDxzlvP8BxOPow&usqp=CAU",
+    "duration": 7,
+    "name": "Bootstrap"
+  }
+]
