@@ -1,6 +1,6 @@
 # Getting Started with Skill Update Website
 
-This project was bootstrapped with [Create React App](https://rejuyan-hossain-shawon-skill-up-website.netlify.app/).
+This project was bootstrapped with [Skill Update](https://rejuyan-hossain-shawon-skill-up-website.netlify.app/).
 
 ## `Installed Dependencies`
 
